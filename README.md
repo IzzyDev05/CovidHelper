@@ -5,8 +5,7 @@ It uses RegEx search patterns for recognizing audio and ParseHub's API to get th
 
 The user can ask their questions through their microphone and recieve answers through their speakers. 
 
-
-
+-----
 
 Credits: 
 
