@@ -1,0 +1,9 @@
+1) Open cmd and check your version of python by typing "python". In my case it is 3.9.6 (And 64 bit)
+
+2) Go here: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+
+3) Download the corresponding version (In my case, that would be "PyAudio‑0.2.11‑cp39‑cp39‑win_amd64.whl")
+
+4) Open the folder where you installed the file. Then, in the path (Where it says the disk location), type in cmd to open command prompt inside that directory.
+
+5) Type in "pip install Py" and then press TAB until it autocompletes to the downloaded whl file. Press enter to download 

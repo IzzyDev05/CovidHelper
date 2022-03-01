@@ -1,0 +1,7 @@
+Install the following through cmd using "pip install xyz":
+
+requests
+pywin32
+SpeechRecognition
+pyttsx3
+pyaudio [Might run into a bug. See "PyAudio fix.txt"]
